@@ -1,3 +1,2 @@
 # Bus-Rservation-System
-This Project Devloped in Python.
-By using This Project you can Reserve the Bus ticket.
+Python Based Project To Reserve the Bus ticket.
